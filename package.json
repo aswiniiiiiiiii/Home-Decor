@@ -1,0 +1,14 @@
+{
+  "name": "home-decor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bulid": "tailwindcss -i ./src/input.css -o ./public/style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
+  }
+}
